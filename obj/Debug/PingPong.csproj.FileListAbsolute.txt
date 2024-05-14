@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Home\source\repos\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Home\source\repos\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.MAJoueur.resources
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.Tournoi.resources
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.pdb
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.FormerEq.resources
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.JeuxSimple.resources
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.JeuDouble.resources
+C:\Users\Home\source\repos\PingPong\PingPong\obj\Debug\PingPong.PaysTournoi.resources
